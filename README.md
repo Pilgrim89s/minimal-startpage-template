@@ -7,6 +7,8 @@ Template for a minimalistic startpage with a search bar, clock, and space for a 
   <img src="https://img.shields.io/github/repo-size/pedro-pablo/minimal-startpage-template.svg" alt="Repo size" />
 </p>
 
+## my page: https://pilgrim89s.github.io/minimal-startpage-template/
+
 ## Features
 * Responsive and mobile friendly
 * Easy to customize
